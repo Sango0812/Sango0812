@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, I'm Santiago 👋
 ---
+<p align="center">
+  <img src="https://github.com/Sango0812/Sango0812/assets/86022591/cd9adaf0-4bd0-451f-a2fd-6af3f3d50efb" width="100%" title="Intro Card" alt="Intro Card">
+</p>
+
 I am a Systems Engineer with experience in data analysis and systems support; I have proven to be a person committed to the functions and tasks in my position, with high analytical skills and very persistent, I like to perform in a demanding work environment and thus to fulfill the assigned tasks, this is demonstrated in my daily work and personal.
 
  🌱 I’m currently learning Data Analysis Intermediate in Talento Tech
